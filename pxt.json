@@ -2,7 +2,8 @@
     "name": "Geometry Dash",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "arcade-platformer": "github:microsoft/arcade-platformer#v0.0.10"
     },
     "files": [
         "main.blocks",

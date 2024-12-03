@@ -4,7 +4,7 @@ namespace myImages {
     helpers._registerFactory("image", function(name: string) {
         switch(helpers.stringTrim(name)) {
             case "image1":
-            case "myImage":return img`
+            case "Charater":return img`
 f f f f f f f f f f f f f f f f 
 f 4 4 4 4 4 4 4 4 4 4 4 4 4 4 f 
 f 4 5 5 5 5 5 5 5 5 5 5 5 5 4 f 
